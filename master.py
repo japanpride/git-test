@@ -6,3 +6,5 @@ c = 4
 
 print('Privet')
 b = 5
+
+sadadasdsa
