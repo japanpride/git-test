@@ -7,6 +7,11 @@ c = 5
 print('Privet')
 b = 5
 
+
 def Things:
     a = 1
     b = 2
+
+def NotThings:
+    a = 2
+    b = 4
