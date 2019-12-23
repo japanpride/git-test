@@ -1,10 +1,12 @@
-a = 1
+a = 2
 #b = 2
-c = 4 
+c = 5
 
 # practice numba 2
 
 print('Privet')
 b = 5
 
-sadadasdsa
+def Things:
+    a = 1
+    b = 2
