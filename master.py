@@ -2,6 +2,9 @@ print('Privet')
 variable213 = input('VVedite')
 
 
+#komment i vniz vse poehalo
+
+
 def Things:
     a = 1
     b = 2
