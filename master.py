@@ -7,4 +7,6 @@ c = 4
 print('Privet')
 b = 5
 
-sadadasdsa
+def NotThings:
+    a = 2
+    b = 4
