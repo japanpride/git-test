@@ -2,6 +2,8 @@ a = 1
 b = 2
 c = 3
 
+git_revert = None
+
 print('Privet')
 variable213 = input('VVedite')
 hueta
