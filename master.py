@@ -1,3 +1,9 @@
+
+
+a = 1
+
+
+
 print('Privet')
 variable213 = input('VVedite')
 hueta
