@@ -1,6 +1,6 @@
 print('Privet')
 variable213 = input('VVedite')
-
+123
 
 #komment i vniz vse poehalo
 
